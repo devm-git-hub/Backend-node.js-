@@ -6,7 +6,9 @@ const g = 9.8;
 const pi = 3.14;
 module.exports = { sum, multiply, g, pi};
 
-// module.exports.sum = (a, b) => a + b;
-// module.exports.multiply = (a, b) => a * b;
-// module.exports.g = 9.8
-// module.exports.pi = 3.14;
+//OR
+
+module.exports.sum = (a, b) => a + b;
+module.exports.multiply = (a, b) => a * b;
+module.exports.g = 9.8
+module.exports.pi = 3.14;

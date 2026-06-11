@@ -12,3 +12,7 @@ console.log(someValue.multiply(90, 10));
 console.log(someValue.g);
 console.log(someValue.pi);
 
+//EXPORINTING HOLE DIRECTREY
+
+const Furits = require('./Furits');
+console.log(Furits);
